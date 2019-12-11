@@ -11,8 +11,7 @@ use MicrosoftAzure\Storage\Blob\Models\PublicAccessType;
  * Define connection String from azure
  */
 
-$connectionString = "DefaultEndpointsProtocol=https;AccountName=codegraphs;AccountKey=uNW1oGjEMpsgfk/pysETX1cRfKVvv/IA07ucayZVrgP07FBDzd6SdzMyoSxxrJRjcChL0tvbAFLma+H/LEFg4g==;EndpointSuffix=core.windows.net";
-
+$connectionString = String;
 /**
  * Create Connection from client to Azure BLOB
  */
